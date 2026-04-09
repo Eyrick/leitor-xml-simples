@@ -22,7 +22,7 @@ Ferramenta de console desenvolvida em Python para automatizar a leitura e extra�
 
 ## 📄 Exemplo 
 **Arquivo ``nota.txt``:**
-**Valor Total: R$ 89,90**
+`n**Valor Total: R$ 89,90**
 
 **Saída:**
 ✅ nota.txt
