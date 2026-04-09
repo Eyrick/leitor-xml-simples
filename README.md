@@ -21,14 +21,14 @@ Ferramenta de console desenvolvida em Python para automatizar a leitura e extra�
 ``` 
 
 ## 📄 Exemplo 
-** Arquivo ``nota.txt``: **
-** Valor Total: R$ 89,90 **
+**Arquivo ``nota.txt``:**
+**Valor Total: R$ 89,90**
 
 **Saída:**
 ✅ nota.txt
 └─ Valor: R$ 89,90
 ## 👤 Autor
-** Octávio Eyrick Almeida Galvão **
-** Estudante de Ciência da Computação - UFC Russas ** 
+**Octávio Eyrick Almeida Galvão**
+**Estudante de Ciência da Computação - UFC Russas** 
  [GitHub](https://github.com/Eyrick)
  
