@@ -1,0 +1,2 @@
+Produto: Notebook
+Valor Total: R$ 3500,00
