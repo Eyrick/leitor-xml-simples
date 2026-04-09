@@ -11,12 +11,13 @@ Ferramenta de console desenvolvida em Python para automatizar a leitura e extra�
 ## 🚀 Como Executar
 1. Tenha Python 3 instalado.
 2. Clone este repositório:
-``bash
-   git clone https://github.com/Eyrick/leitor-xml-simples.git```
-
+```bash
+   git clone https://github.com/Eyrick/leitor-xml-simples.git 
+	 ```
 3. Navegue até a pasta e execute:
-``bash
-   python leitor.py`n   ``` 
+```bash
+   python leitor.py   
+	 ``` 
 
 ## 📄 Exemplo
 ** Arquivo ``nota.txt``:
