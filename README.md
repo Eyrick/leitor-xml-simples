@@ -29,7 +29,7 @@ Valor Total: R$ 89,90
 ✅ nota.txt
    └─ Valor: R$ 89,90
 
-👤 Autor
-[Octávio Eyrick Almeida Galvão]
+# 👤 Autor
+## [Octávio Eyrick Almeida Galvão]
 Estudante de Ciência da Computação - UFC Russas
 GitHub https://github.com/Eyrick/
