@@ -16,20 +16,22 @@ Ferramenta de console desenvolvida em Python para automatizar a leitura e extra�
 2. Clone este repositório:
    ```bash
    git clone https://github.com/Eyrick/leitor-xml-simples.git
+Navegue até a pasta e execute:
 
-
-## Navegue até a pasta e execute:
+bash
 python leitor.py
-
-## 📄 Exemplo
+📄 Exemplo
 Arquivo nota.txt:
-Valor Total: R$ 89,90
 
-## Saída:
+text
+Valor Total: R$ 89,90
+Saída:
+
+text
 ✅ nota.txt
    └─ Valor: R$ 89,90
-
-# 👤 Autor
-## [Octávio Eyrick Almeida Galvão]
+	 
+👤 Autor
+Octávio Eyrick Almeida Galvão
 Estudante de Ciência da Computação - UFC Russas
-GitHub https://github.com/Eyrick/
+GitHub
