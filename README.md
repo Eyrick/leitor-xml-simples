@@ -27,8 +27,10 @@ Ferramenta de console desenvolvida em Python para automatizar a leitura e extra�
 **Saída:**  
 ✅ nota.txt  
 └─ Valor: R$ 89,90  
+
 ## 👤 Autor
+
 **Octávio Eyrick Almeida Galvão**  
-**Estudante de Ciência da Computação - UFC Russas** 
+Graduando em Ciência da Computação - UFC Russas  
 [GitHub](https://github.com/Eyrick)
  
